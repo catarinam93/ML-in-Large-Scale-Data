@@ -1,5 +1,5 @@
 # ML-in-Large-Scale-Data
-Assignment of the course Large Scale Data Science (3rd year, 2nd semester)
+Assignment of the course Large Scale Data Science (BSc in Artificial Intelligence and Data Science 3rd year, 2nd semester)
 
 ## A little context
 ### Introduction
